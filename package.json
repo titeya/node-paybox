@@ -1,5 +1,5 @@
 {
-  "name": "paybox",
+  "name": "node-paybox",
   "description": "Library to simply connect to the Paybox platform",
   "version": "1.0.0",
   "main": "./lib/paybox.js",
@@ -8,6 +8,6 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Ideolys/node-paybox"
+    "url" : "https://github.com/titeya/node-paybox.git"
   }
 }

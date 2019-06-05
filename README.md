@@ -16,7 +16,7 @@ Create a transaction
 --------------------
 
 ```javascript
-var paybox        = require('paybox');
+var paybox        = require('node-paybox');
 var transactionId = (new Date()).valueOf();
 
 paybox.createTransaction(
