@@ -1,4 +1,4 @@
-node-paybox
+paybox-pay
 ===========
 
 NodeJS library to simply connect to the Paybox platform
