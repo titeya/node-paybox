@@ -9,7 +9,7 @@ Install
 Just run in your project folder :
 
 ```bash
-npm install paybox
+npm install paybox-pay
 ```
 
 Create a transaction
