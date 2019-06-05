@@ -1,5 +1,5 @@
 {
-  "name": "node-paybox",
+  "name": "paybox-pay",
   "description": "Library to simply connect to the Paybox platform",
   "version": "1.0.0",
   "main": "./lib/paybox.js",
